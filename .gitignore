@@ -1,0 +1,6 @@
+src/API/Properties/launchSettings.json
+src/API/obj/API.csproj.nuget.dgspec.json
+src/API/obj/API.csproj.nuget.g.props
+src/API/obj/API.csproj.nuget.g.targets
+src/API/obj/project.assets.json
+src/API/obj/project.nuget.cache
